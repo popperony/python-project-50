@@ -9,13 +9,13 @@ packages = [
   { include = "gendiff" },
 ]
 classifiers = [
-    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.10",
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
 repository = "https://github.com/popperony/python-project-50"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 pyyaml = "^6.0.1"
 
 
