@@ -9,7 +9,7 @@ packages = [
   { include = "gendiff" },
 ]
 classifiers = [
-    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
 repository = "https://github.com/popperony/python-project-50"
